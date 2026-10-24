@@ -22,3 +22,4 @@
 *.run.xml
 
 **/aux/
+uv.lock
